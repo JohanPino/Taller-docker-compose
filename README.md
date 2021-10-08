@@ -4,9 +4,9 @@
 
 ### Trabajo Realizado por Johan Ariel Pino Cuero - 184032 || Brian Moreno Mantilla - 184035
 
-Se debe contar con Docker descargado en su maquina
+### Se debe contar con Docker descargado en su maquina
 
-Para correr las imagenes Docker, debe ejecutar los siguientes comandos: 
+## Para correr las imagenes Docker, debe ejecutar los siguientes comandos: 
 
 ```sh
 docker-compose build
